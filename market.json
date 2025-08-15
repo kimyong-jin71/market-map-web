@@ -1,0 +1,8 @@
+{
+  "name": "문산자유시장",
+  "mapUrl": "MunsanMarketMap.png",
+  "shops": [
+    { "id": "101", "name": "산타파", "category": "식당", "x": 10, "y": 12, "w": 4, "h": 8, "status": "입점" },
+    { "id": "141", "name": "창고",   "category": "시설", "x": 22, "y": 60, "w": 8, "h": 12, "status": "보수중" }
+  ]
+}
